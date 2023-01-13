@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://jgulan.dev/blog</id>
+    <title>J. Gulan Blog</title>
+    <updated>2023-01-13T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://jgulan.dev/blog"/>
+    <subtitle>J. Gulan Blog</subtitle>
+    <icon>https://jgulan.dev/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Placeholder]]></title>
+        <id>/2023/01/13/placeholder</id>
+        <link href="https://jgulan.dev/blog/2023/01/13/placeholder"/>
+        <updated>2023-01-13T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[...]]></summary>
+        <content type="html"><![CDATA[<p>...</p>]]></content>
+    </entry>
+</feed>
