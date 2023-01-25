@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([[535],{5641:e=>{e.exports=JSON.parse('{"title":"Recent posts","items":[{"title":"Detecting Regression Commits Using git bisect","permalink":"/blog/2023/01/15/detecting-regression-commits-using-git-bisect"}]}')}}]);
