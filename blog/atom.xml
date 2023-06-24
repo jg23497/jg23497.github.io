@@ -9,7 +9,7 @@
     <icon>https://jgulan.dev/img/favicon.ico</icon>
     <entry>
         <title type="html"><![CDATA[Image Noise Reduction Using DxO PhotoLab]]></title>
-        <id>/2023/01/25/image-noise-reduction-using-dxo-photolab</id>
+        <id>https://jgulan.dev/blog/2023/01/25/image-noise-reduction-using-dxo-photolab</id>
         <link href="https://jgulan.dev/blog/2023/01/25/image-noise-reduction-using-dxo-photolab"/>
         <updated>2023-01-25T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Disclaimer: I am a paying user of DxO PhotoLab, but have no other association or affiliation with the company. The opinions stated here are my own and I have not been incentivized to write them.]]></summary>
@@ -23,7 +23,7 @@ the team at DxO Labs can make.</p>]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Detecting Regression Commits Using git bisect]]></title>
-        <id>/2023/01/15/detecting-regression-commits-using-git-bisect</id>
+        <id>https://jgulan.dev/blog/2023/01/15/detecting-regression-commits-using-git-bisect</id>
         <link href="https://jgulan.dev/blog/2023/01/15/detecting-regression-commits-using-git-bisect"/>
         <updated>2023-01-15T00:00:00.000Z</updated>
         <summary type="html"><![CDATA[Locating the commit that introduced a regression, or some undesirable change, in a codebase can be difficult. Locating the same in a frequently-changing codebase with a large number of contributors is harder again.]]></summary>
