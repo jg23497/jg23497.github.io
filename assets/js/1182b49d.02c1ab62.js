@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([[465],{9819:e=>{e.exports=JSON.parse('{"permalink":"/blog/tags/photography","page":1,"postsPerPage":10,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
