@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([[191],{398:a=>{a.exports=JSON.parse('{"label":"photography","permalink":"/tags/photography","allTagsPath":"/tags","count":1,"unlisted":false}')}}]);
