@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([[390],{3414:e=>{e.exports=JSON.parse('{"label":"engineering","permalink":"/tags/engineering","allTagsPath":"/tags","count":2,"unlisted":false}')}}]);

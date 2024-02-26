@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([[51],{3637:e=>{e.exports=JSON.parse('{"permalink":"/tags/engineering/page/2","page":2,"postsPerPage":1,"totalPages":2,"totalCount":2,"previousPage":"/tags/engineering","blogDescription":"Blog","blogTitle":"Blog"}')}}]);

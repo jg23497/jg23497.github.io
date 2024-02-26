@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([[910],{9489:e=>{e.exports=JSON.parse('{"permalink":"/tags/engineering","page":1,"postsPerPage":2,"totalPages":1,"totalCount":2,"blogDescription":"Blog","blogTitle":"Blog"}')}}]);
