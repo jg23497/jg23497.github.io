@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([[32],{8322:n=>{n.exports=JSON.parse('{"authors":[{"name":"J. Gulan","title":"Software Engineer","socials":{"linkedin":"https://www.linkedin.com/in/jgulan/","github":"https://github.com/jg23497"},"imageURL":"https://github.com/jg23497.png","key":"jgulan","page":null,"count":0}]}')}}]);
