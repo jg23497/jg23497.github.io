@@ -5,7 +5,7 @@
 <meta name="generator" content="Docusaurus v3.7.0">
 <title data-rh="true">LLMs and an optimistic take on the future of software engineering | J. Gulan</title><meta data-rh="true" name="viewport" content="width=device-width,initial-scale=1"><meta data-rh="true" name="twitter:card" content="summary_large_image"><meta data-rh="true" property="og:url" content="https://jgulan.dev/2025/04/20/llms-and-an-optimistic-take-on-the-future-of-software-engineering"><meta data-rh="true" property="og:locale" content="en"><meta data-rh="true" name="docusaurus_locale" content="en"><meta data-rh="true" name="docusaurus_tag" content="default"><meta data-rh="true" name="docsearch:language" content="en"><meta data-rh="true" name="docsearch:docusaurus_tag" content="default"><meta data-rh="true" property="og:title" content="LLMs and an optimistic take on the future of software engineering | J. Gulan"><meta data-rh="true" name="description" content="Listen to a 10 minute AI-generated podcast version of this blog post,"><meta data-rh="true" property="og:description" content="Listen to a 10 minute AI-generated podcast version of this blog post,"><meta data-rh="true" property="og:type" content="article"><meta data-rh="true" property="article:published_time" content="2025-04-20T00:00:00.000Z"><meta data-rh="true" property="article:tag" content="engineering"><meta data-rh="true" name="robots" content="noindex, nofollow"><link data-rh="true" rel="icon" href="/img/favicon.ico"><link data-rh="true" rel="canonical" href="https://jgulan.dev/2025/04/20/llms-and-an-optimistic-take-on-the-future-of-software-engineering"><link data-rh="true" rel="alternate" href="https://jgulan.dev/2025/04/20/llms-and-an-optimistic-take-on-the-future-of-software-engineering" hreflang="en"><link data-rh="true" rel="alternate" href="https://jgulan.dev/2025/04/20/llms-and-an-optimistic-take-on-the-future-of-software-engineering" hreflang="x-default"><script data-rh="true" type="application/ld+json">{"@context":"https://schema.org","@type":"BlogPosting","@id":"https://jgulan.dev/2025/04/20/llms-and-an-optimistic-take-on-the-future-of-software-engineering","mainEntityOfPage":"https://jgulan.dev/2025/04/20/llms-and-an-optimistic-take-on-the-future-of-software-engineering","url":"https://jgulan.dev/2025/04/20/llms-and-an-optimistic-take-on-the-future-of-software-engineering","headline":"LLMs and an optimistic take on the future of software engineering","name":"LLMs and an optimistic take on the future of software engineering","description":"Listen to a 10 minute AI-generated podcast version of this blog post,","datePublished":"2025-04-20T00:00:00.000Z","author":[],"keywords":[],"isPartOf":{"@type":"Blog","@id":"https://jgulan.dev/","name":"Blog"}}</script><link rel="alternate" type="application/rss+xml" href="/rss.xml" title="J. Gulan RSS Feed">
 <link rel="alternate" type="application/atom+xml" href="/atom.xml" title="J. Gulan Atom Feed"><link rel="stylesheet" href="/assets/css/styles.a5077fbd.css">
-<script src="/assets/js/runtime~main.6a4798eb.js" defer="defer"></script>
+<script src="/assets/js/runtime~main.1e01a281.js" defer="defer"></script>
 <script src="/assets/js/main.983c25eb.js" defer="defer"></script>
 </head>
 <body class="navigation-with-keyboard">
@@ -13,7 +13,7 @@
 courtesy of Google&#x27;s <a href="https://notebooklm.google" target="_blank" rel="noopener noreferrer">NotebookLM</a>.</p></div></div>
 <blockquote>
 <p><em>“Give me a lever long enough and a fulcrum on which to place it, and I shall move the world.”</em></p>
-<p>— A quote attributed to Greek mathematician and physicis, Archimedes.</p>
+<p>— A quote attributed to Greek mathematician and physicist, Archimedes.</p>
 </blockquote>
 <img align="left" src="/assets/images/archimedes-lever-7422d72f6bbd7d6ac6968413ac314068.jpg" alt="Archimedes lifting the world">
 <p><em>Image credit <sup><a href="#user-content-fn-1-7f8780" id="user-content-fnref-1-7f8780" data-footnote-ref="true" aria-describedby="footnote-label">1</a></sup></em></p>
@@ -26,11 +26,11 @@ proliferation of open-source software and Stack Overflow&#x27;s arrival, which c
 discussions, better disseminating knowledge and example code.</p>
 <p>The world looks very different now and the landscape is shifting dramatically once more. A pivotal moment arrived in 2022 with the
 release of <a href="https://chatgpt.com" target="_blank" rel="noopener noreferrer">ChatGPT</a>, the generative artificial intelligence (AI) chatbot from OpenAI, which is based on their Generative Pre-trained
-Transformer (GPT) large language model (LLM).</p>
+Transformer (GPT) Large Language Model (LLM).</p>
 <p>While the initial implications might have been hazy, with each subsequent advancement, the power of LLMs and their place in our
 future is becoming clearer.</p>
 <h2 class="anchor anchorWithStickyNavbar_LWe7" id="cognitive-bias-and-the-creative-identity-crisis">Cognitive bias and the creative identity crisis<a href="#cognitive-bias-and-the-creative-identity-crisis" class="hash-link" aria-label="Direct link to Cognitive bias and the creative identity crisis" title="Direct link to Cognitive bias and the creative identity crisis">​</a></h2>
-<p>The &quot;AI effect&quot; describes how, once AI researchers accomplish a task previously considered indicative
+<p>The <a href="https://en.wikipedia.org/wiki/AI_effect" target="_blank" rel="noopener noreferrer">&quot;AI effect&quot;</a> describes how, once AI researchers accomplish a task previously considered indicative
 of true AI—such as defeating a human at chess—the definition of genuine AI shifts, often relegating the achievement to mere
 logic or mathematics.</p>
 <p>I think part of this stems from a potential creative identity crisis and a flawed but natural resistance to advancements in AI. Imagine you&#x27;ve spent your life mastering a
@@ -43,7 +43,7 @@ to keep up, and we are still working out how to make best use of it. Progress is
 between the key players, like OpenAI, Google and Anthropic, and we&#x27;re no longer rendering human hands that look like spaghetti and
 with too many fingers.</p>
 <p>A common argument is that LLMs are &quot;just&quot; a statistical model, predicting the token that is most likely to follow the previous
-token(s), over and over. Behind the glossy chat interface, OpenAI&#x27;s API is even called the &quot;Chat Completions&quot; API (e.g. <code>POST https://api.openai.com/v1/chat/completions</code>), which has connotations of predictive text completion more than real intelligence.
+token(s), over and over. Behind the glossy chat interface, the main ChatGPT API method is called Chat Completions (e.g. <code>POST https://api.openai.com/v1/chat/completions</code>), which has connotations of predictive text completion more than real intelligence.
 This is true but misses the point and does not diminish the LLM’s utility.</p>
 <p>In fact, the brain and LLMs work in somewhat similar ways, both by forming connections. In our brains, it is neurons communicating
 and adapting based on learning and experience. In LLMs, it is a vast number of parameters that are adjusted during training, based
@@ -64,7 +64,7 @@ field of AI, otherwise we risk throwing the baby out with the bathwater and over
 to take on small and very well defined tickets and simply “translate” these into small code changes, then your job is ripe for
 disruption.</p>
 <p>If we feed an LLM a prompt with the relevant context—parts of or all of the codebase—and clear instructions like:
-<em>“Add a new ‘birth_date’ database column to the ‘users’ table of the DateTime type, which is nullable and has no index”</em>, then our
+<em>“Add a new ‘birth_date’ database column to the ‘users’ table of the Date type, which is nullable and has no index”</em>, then our
 LLM-driven agent will probably produce the correct result and will even raise a pull request.</p>
 <p>I notice a general trend of pessimism in online communities, particularly LinkedIn and X (Twitter), where we are told by
 influencers, not engineers, that this is the end of programming and software engineering. These comments tend to attract
@@ -105,7 +105,7 @@ defined Jira task into code changes. He does not actually state that engineers w
 that idea attractive. LLM-based agents lack autonomy and agency and require direction and supervision. Let us not forget that
 writing a detailed prompt to produce source code is still programming of a sort, albeit at a higher level of abstraction. Churning
 out code isn&#x27;t enough - we still need the right code and it is up to us to decide what constitutes right.
-Mark added, &quot;I think that will augment the people working on it&quot;.</p>
+Zuckerberg added, &quot;I think [it] will augment the people working on it&quot;.</p>
 <p>In my opinion, LLMs will not replace software engineers on the whole, but will give existing software engineers far greater
 leverage. A much longer lever to produce greater torque at the fulcrum, if you like, greatly amplifying the initial inputs.</p>
 <p>There is a caveat though. I suspect that LLMs will form a component of Artificial General Intelligence (AGI) or at least a
@@ -133,7 +133,7 @@ build, doesn’t mean we won&#x27;t need more of it or more people to develop an
 assumption that computers require imperative instructions, but that is no longer the case. We can talk to computers and they can
 talk back. We have the huge opportunity to build new systems, experiences and products using AI as a foundation. Similar
 opportunities appeared during the smartphone revolution, which literally put powerful computers in people&#x27;s pockets - we had to
-rethink the assumption that computers stayed at home and rebuild accordingly. The individuals that adapted and took advantage of
+rethink the assumption that computers stayed at home and rebuild accordingly. Those that adapted and took advantage of
 these opportunities were ultimately the winners. Let&#x27;s get to work.</p>
 <!-- -->
 <section data-footnotes="true" class="footnotes"><h2 class="anchor anchorWithStickyNavbar_LWe7 sr-only" id="footnote-label">Footnotes<a href="#footnote-label" class="hash-link" aria-label="Direct link to Footnotes" title="Direct link to Footnotes">​</a></h2>
