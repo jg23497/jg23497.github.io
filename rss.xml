@@ -45,7 +45,7 @@ whether it should update their <em>~/.bashrc</em> file as part of the installati
             <category>engineering</category>
         </item>
         <item>
-            <title><![CDATA[Image Noise Reduction Using DxO PhotoLab]]></title>
+            <title><![CDATA[Image noise reduction using DxO PhotoLab]]></title>
             <link>https://jgulan.dev/2023/01/25/image-noise-reduction-using-dxo-photolab</link>
             <guid>https://jgulan.dev/2023/01/25/image-noise-reduction-using-dxo-photolab</guid>
             <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
@@ -69,7 +69,7 @@ the team at DxO Labs can make.</p>]]></content:encoded>
             <category>photography</category>
         </item>
         <item>
-            <title><![CDATA[Detecting Regression Commits Using git bisect]]></title>
+            <title><![CDATA[Detecting regression commits using git bisect]]></title>
             <link>https://jgulan.dev/2023/01/15/detecting-regression-commits-using-git-bisect</link>
             <guid>https://jgulan.dev/2023/01/15/detecting-regression-commits-using-git-bisect</guid>
             <pubDate>Sun, 15 Jan 2023 00:00:00 GMT</pubDate>
