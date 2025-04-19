@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([[885],{2937:e=>{e.exports=JSON.parse('{"tags":[{"label":"engineering","permalink":"/tags/engineering","count":2},{"label":"photography","permalink":"/tags/photography","count":1}]}')}}]);
