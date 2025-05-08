@@ -204,8 +204,8 @@ whether it should update their <em>~/.bashrc</em> file as part of the installati
             <link>https://jgulan.dev/2023/01/25/image-noise-reduction-using-dxo-photolab</link>
             <guid>https://jgulan.dev/2023/01/25/image-noise-reduction-using-dxo-photolab</guid>
             <pubDate>Wed, 25 Jan 2023 00:00:00 GMT</pubDate>
-            <description><![CDATA[Disclaimer: I am a paying user of DxO PhotoLab, but have no other association or affiliation with the company. The opinions stated here are my own and I have not been incentivized to write them.]]></description>
-            <content:encoded><![CDATA[<p><em>Disclaimer: I am a paying user of DxO PhotoLab, but have no other association or affiliation with the company. The opinions stated here are my own and I have not been incentivized to write them.</em></p>
+            <description><![CDATA[Disclaimer: I am a paying user of DxO PhotoLab, but have no other association or affiliation with the company. The opinions stated here are my own and I have not been incentivised to write them.]]></description>
+            <content:encoded><![CDATA[<p><em>Disclaimer: I am a paying user of DxO PhotoLab, but have no other association or affiliation with the company. The opinions stated here are my own and I have not been incentivised to write them.</em></p>
 <p>Some photographers enjoy the unobtrusive, film-like character that subtle image noise can add to an image, particularly for black-and-white photography.
 In my experience, however, many of us prefer clean and noise-free images for the same reason that we prefer clean and noise-free audio — noise distracts our senses and clouds the signal.</p>
 <p>For images, noise can lead to the loss of detail and colour information. Luminance noise, which presents as random variations in pixel illumination, is easier to forgive, whereas chroma noise, which presents as random variations in pixel colour, is an unsightly distraction.</p>
