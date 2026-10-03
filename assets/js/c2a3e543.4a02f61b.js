@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([[885],{2937:a=>{a.exports=JSON.parse('{"tags":[{"label":"engineering","permalink":"/tags/engineering","count":3},{"label":"ai","permalink":"/tags/ai","count":1},{"label":"photography","permalink":"/tags/photography","count":1}]}')}}]);
