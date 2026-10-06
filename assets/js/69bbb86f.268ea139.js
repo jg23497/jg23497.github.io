@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([["771"],{4150(a){a.exports=JSON.parse('{"tag":{"label":"photography","permalink":"/tags/photography","allTagsPath":"/tags","count":1,"unlisted":false},"listMetadata":{"permalink":"/tags/photography","page":1,"postsPerPage":3,"totalPages":1,"totalCount":1,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
