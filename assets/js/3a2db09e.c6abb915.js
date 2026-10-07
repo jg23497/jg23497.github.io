@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkjgulan=self.webpackChunkjgulan||[]).push([["186"],{8070(a){a.exports=JSON.parse('{"tags":[{"label":"engineering","permalink":"/blog/tags/engineering","count":3},{"label":"ai","permalink":"/blog/tags/ai","count":1},{"label":"photography","permalink":"/blog/tags/photography","count":1}]}')}}]);
